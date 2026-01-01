@@ -1,0 +1,22 @@
+{
+    "hedef_kodlar\\hedef_kodlar1.py": {
+        "siniflar": [
+            "PythonAnalizcisi"
+        ],
+        "fonksiyonlar": [
+            "__init__",
+            "visit_Import",
+            "visit_ImportFrom",
+            "visit_ClassDef",
+            "visit_FunctionDef",
+            "dosya_analiz_et",
+            "dosyalari_listele",
+            "main"
+        ],
+        "importlar": [
+            "os",
+            "ast",
+            "json"
+        ]
+    }
+}
